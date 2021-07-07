@@ -1,0 +1,19 @@
+nav{
+    display: flex;
+    flex-direction: row;
+
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    color: red;
+    background-color: aqua;
+    flex-grow: 1;
+    justify-content: space-around;
+}
+li {
+    display: flex;
+}
+.huge{
+    font-size: 80px;
+}
